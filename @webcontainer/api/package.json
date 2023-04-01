@@ -1,0 +1,5 @@
+{
+  "name": "@webcontainer/api",
+  "description": "A webcontainer-api implementation that pollyfills nodejs mainly designed for why-you-should-migrate-away-from-nodejs-npm",
+  "module": "webcontainer-api.js",
+}
